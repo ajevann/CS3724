@@ -1,0 +1,1 @@
+A project designed to study a simulated problem (recording basketball scores quickly and efficiently), research the different aspects that create the issue, then create a proof of concept that can be quantitatively shown to be an improvement to the issue.
